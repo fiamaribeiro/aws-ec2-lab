@@ -68,6 +68,7 @@ sudo systemctl status httpd
 
 📸 *Apache rodando:*
 ### 4) Criar página HTML personalizada
+![Apache rodando](images/07-http.png)
 
 Arquivo: /var/www/html/index.html
 ```powershell
@@ -105,6 +106,7 @@ Arquivo: /var/www/html/index.html
 ---
 
 📸 *Página publicada no navegador:*
+![Pagina publicada](images/08-site.png)
 
 ### 5) Elastic IP
 
