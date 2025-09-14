@@ -68,7 +68,7 @@ sudo systemctl status httpd
 
 📸 *Apache rodando:*
 ### 4) Criar página HTML personalizada
-![Apache rodando](images/07-http.png)
+![Apache rodando](images/07-httpd.png)
 
 Arquivo: /var/www/html/index.html
 ```powershell
